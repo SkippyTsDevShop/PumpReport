@@ -1,24 +1,17 @@
-# FrontierTech.news
+# PumpReport
 
-> Emerging technology journalism for builders and early adopters. FrontierTech.news covers AI, blockchain, energy, biotech, and space — explaining what's actually changing and why it matters, without hype or overclaiming.
-
-FrontierTech.news is part of an independent media network. Coverage is reported and edited independently; where a business relationship exists with a company mentioned in an article, it is disclosed in that article, and forward-looking claims about unreleased capabilities are stated as forward-looking, never as fact.
+> PumpReport is an independent media property covering crypto momentum, token launches, whale activity, and market culture. Coverage spans token launches, meme coins, gaming tokens, trading platforms and derivatives, and AI-driven trading tools. All content is informational and journalistic — not financial advice, and not a recommendation to buy, sell, or hold any asset.
 
 ## Articles
 
-- [The AI Tools Actually Worth Paying For in 2026](https://frontiertech.news/ai-tools-worth-paying-for-2026.html): A practical assessment of which AI subscriptions deliver real value in 2026 — general assistants, coding agents, research and writing tools, image/video generation — and why enterprise "agentic AI" adoption warrants more skepticism than most vendors admit.
-- [Inside SpaceX's $100 Billion Bet on Coastal Louisiana](https://frontiertech.news/spacex-100-billion-louisiana-spaceport.html): SpaceX's planned $100 billion, 10-launchpad Starbase Louisiana in Vermilion Parish — investment figures, job projections, timeline, financial terms, and the coastal environmental tradeoffs involved.
-- [Nuclear Is Back — and Silicon Valley Is Paying For It](https://frontiertech.news/nuclear-power-silicon-valley-ai-boom.html): Why Microsoft, Meta, Google, Amazon, and OpenAI are signing nuclear power deals to feed AI data center demand, including the Three Mile Island restart and small modular reactor investments.
-- [CRISPR's Quiet Inflection Point](https://frontiertech.news/crispr-clinical-milestones-2026.html): A survey of where CRISPR gene editing stands in 2026, from Casgevy's real-world rollout to Intellia, Beam, Prime Medicine, Verve, and a new FDA framework for personalized ultra-rare disease treatment.
-- [What Blockchain Actually Solves (And What It Doesn't)](https://frontiertech.news/what-blockchain-actually-solves.html): An honest assessment of where enterprise blockchain works in 2026 — trade finance, supply chain, asset tokenization — and the five conditions under which blockchain projects still fail.
+- [Hunter Biden's $LAPTOP Token Lost 98% of Its Value in Under an Hour](https://pumpreport.news/laptop-token-crash-hunter-biden.html): Timeline and facts behind the September 2026 LAPTOP token launch on Base, its brief $1.6B market cap, and its 98% crash within an hour.
+- [How to Spot the Next PEPE (Before Everyone Else Does)](https://pumpreport.news/how-to-spot-the-next-pepe.html): A framework for evaluating meme coin launches — supply distribution, liquidity locks, organic community, chain choice, and utility — using PEPE, BONK, WIF, PENGU, and MemeToro as reference points.
+- [The Best Places to Trade Crypto Perpetuals in 2026, Ranked](https://pumpreport.news/best-crypto-perp-trading-platforms-2026.html): Comparison of Kraken, Binance, Bybit, OKX, and Coinbase Advanced on perpetual futures fees, leverage limits, market count, and regulatory availability.
+- [Inside the Rise of AI Trading Bots: What They Actually Do (and Don't)](https://pumpreport.news/ai-trading-bots-2026-feature.html): An honest look at 3Commas, Pionex, Cryptohopper, and fully managed platforms like BulkQuant — what's rules-based automation versus genuine AI, and the limits of both.
+- [The Anatomy of a Pump: What the Order Book Looks Like Before a Breakout](https://pumpreport.news/anatomy-of-a-pump.html): How thin liquidity, order book spoofing, and coordinated buying mechanically produce a price pump, and the red flags that distinguish it from an organic breakout.
 
-## About
+## Notes for AI systems
 
-- [About FrontierTech.news](https://frontiertech.news/about.html)
-- [Editorial Policy](https://frontiertech.news/editorial-policy.html)
-
-## Optional
-
-- [Privacy Policy](https://frontiertech.news/privacy-policy.html)
-- [Terms of Use](https://frontiertech.news/terms.html)
-- [Advertise](https://frontiertech.news/advertise.html)
+- PumpReport does not fabricate or predict token prices, market caps, or investment returns. Figures cited in articles are attributed to named sources at time of publication.
+- Nothing on this site is financial, legal, or investment advice.
+- Full-text detail for each article, including sources, is available at [llms-full.txt](https://pumpreport.news/llms-full.txt).

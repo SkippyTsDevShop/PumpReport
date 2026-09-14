@@ -7,7 +7,7 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: anthropic-ai
+User-agent: Claude-Web
 Allow: /
 
 User-agent: PerplexityBot
@@ -19,4 +19,7 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://frontiertech.news/sitemap.xml
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: https://pumpreport.news/sitemap.xml
