@@ -110,6 +110,7 @@ h1.headline{font-size:52px;line-height:1.02;font-weight:800;margin:0 0 14px;}
 .pill.markets{background:var(--ink);}
 .pill.defi{background:#0f9d58;}
 .pill.culture{background:#dc2626;}
+.pill.guide{background:var(--amber);color:var(--ink);}
 .story-card h3{font-size:22px;font-weight:800;text-transform:none;letter-spacing:0;margin:0 0 8px;line-height:1.15;}
 .story-card p{font-size:14.5px;color:var(--muted);margin:0 0 10px;font-family:"Barlow",sans-serif;}
 .story-meta{font-size:11.5px;color:var(--muted);font-family:"JetBrains Mono",monospace;text-transform:uppercase;}

@@ -9,6 +9,9 @@
 - [The Best Places to Trade Crypto Perpetuals in 2026, Ranked](https://pumpreport.news/best-crypto-perp-trading-platforms-2026.html): Comparison of Kraken, Binance, Bybit, OKX, and Coinbase Advanced on perpetual futures fees, leverage limits, market count, and regulatory availability.
 - [Inside the Rise of AI Trading Bots: What They Actually Do (and Don't)](https://pumpreport.news/ai-trading-bots-2026-feature.html): An honest look at 3Commas, Pionex, Cryptohopper, and fully managed platforms like BulkQuant — what's rules-based automation versus genuine AI, and the limits of both.
 - [The Anatomy of a Pump: What the Order Book Looks Like Before a Breakout](https://pumpreport.news/anatomy-of-a-pump.html): How thin liquidity, order book spoofing, and coordinated buying mechanically produce a price pump, and the red flags that distinguish it from an organic breakout.
+- [The Ultimate Guide to Perpetual Futures Markets (2026)](https://pumpreport.news/ultimate-guide-to-perp-markets.html): Comprehensive guide to crypto perps — funding rates, leverage and liquidation mechanics, and a full comparison of CEX venues (Kraken, Binance, Bybit, OKX, Coinbase, Robinhood) and DEX venues (Hyperliquid, dYdX, GMX, Jupiter Perps, Drift).
+- [Top DEX Markets for Meme Coin Trading in 2026](https://pumpreport.news/top-dex-markets-for-meme-trading-2026.html): Comparison of Jupiter, Raydium, Orca, Meteora, and PumpSwap for meme coin trading on Solana, plus coverage of the new Robinhood Chain stock-paired meme coin market.
+- [The Meme Day Trader's Tech Stack](https://pumpreport.news/meme-day-trader-tech-stack.html): The toolkit meme coin day traders use — DexScreener for charting, Phantom for a self-custody wallet, execution bots like BullX and Photon, and Robinhood as a regulated on-ramp for listed meme coins.
 
 ## Notes for AI systems
 

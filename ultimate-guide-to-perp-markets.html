@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Ultimate Guide to Perpetual Futures Markets (2026) | PumpReport</title>
+<meta name="description" content="Everything you need to know about crypto perpetual futures: how funding rates work, leverage and liquidation mechanics, CEX vs. DEX perps, and how to compare Hyperliquid, dYdX, GMX, Kraken, Binance, and Robinhood.">
+<link rel="canonical" href="https://pumpreport.news/ultimate-guide-to-perp-markets.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Ultimate Guide to Perpetual Futures Markets (2026)">
+<meta property="og:description" content="How funding rates, leverage, and liquidation actually work, and how CEX and DEX perp venues compare.">
+<meta property="og:url" content="https://pumpreport.news/ultimate-guide-to-perp-markets.html">
+<meta property="og:image" content="https://pumpreport.news/og-ultimate-guide-to-perp-markets.png">
+<meta property="article:published_time" content="2026-09-14">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Ultimate Guide to Perpetual Futures Markets (2026)">
+<meta name="twitter:image" content="https://pumpreport.news/og-ultimate-guide-to-perp-markets.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://pumpreport.news/styles.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "The Ultimate Guide to Perpetual Futures Markets (2026)",
+  "description": "Everything you need to know about crypto perpetual futures: how funding rates work, leverage and liquidation mechanics, CEX vs. DEX perps, and how to compare the major venues.",
+  "image": "https://pumpreport.news/og-ultimate-guide-to-perp-markets.png",
+  "datePublished": "2026-09-14",
+  "dateModified": "2026-09-14",
+  "author": {"@type": "Organization", "name": "PumpReport", "url": "https://pumpreport.news"},
+  "publisher": {"@type": "Organization", "name": "PumpReport", "logo": {"@type": "ImageObject", "url": "https://pumpreport.news/logo.png"}},
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://pumpreport.news/ultimate-guide-to-perp-markets.html"}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "What is a perpetual futures contract?", "acceptedAnswer": {"@type": "Answer", "text": "A perpetual futures contract, or perp, is a derivative that lets a trader speculate on an asset's price with leverage and no expiration date. A funding-rate mechanism, in which long and short traders periodically exchange payments, keeps the contract price tethered to the underlying spot price."}},
+    {"@type": "Question", "name": "What is the difference between CEX and DEX perpetuals?", "acceptedAnswer": {"@type": "Answer", "text": "CEX (centralized exchange) perps, such as those on Binance, Bybit, OKX, Kraken, or Coinbase, are custodial and operated by a company. DEX (decentralized exchange) perps, such as Hyperliquid, dYdX, GMX, or Jupiter Perps, run on-chain via smart contracts, meaning traders retain custody of their funds and positions settle without a centralized intermediary."}},
+    {"@type": "Question", "name": "What happens when a leveraged position gets liquidated?", "acceptedAnswer": {"@type": "Answer", "text": "Liquidation happens when losses on a leveraged position consume the trader's margin, at which point the exchange or protocol automatically closes the position to prevent further loss, often charging a liquidation fee. Higher leverage means a smaller adverse price move can trigger liquidation."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "PumpReport", "item": "https://pumpreport.news/"},
+    {"@type": "ListItem", "position": 2, "name": "Guides", "item": "https://pumpreport.news/#guides"},
+    {"@type": "ListItem", "position": 3, "name": "The Ultimate Guide to Perpetual Futures Markets", "item": "https://pumpreport.news/ultimate-guide-to-perp-markets.html"}
+  ]
+}
+</script>
+</head>
+<body>
+
+<div class="alert-bar">
+  <div class="wrap">
+    <span class="live-dot"></span>
+    <div class="ticker-track" id="ticker-track"><span class="ticker-item">Loading live prices…</span></div>
+  </div>
+</div>
+
+<div class="nav-bar">
+  <div class="wrap">
+    <a href="https://pumpreport.news/" class="logo">PUMP<span class="dot">.</span>REPORT</a>
+    <nav class="nav">
+      <a href="https://pumpreport.news/#markets">Markets</a>
+      <a href="https://pumpreport.news/#launches">Launches</a>
+      <a href="https://pumpreport.news/#gaming">Gaming Tokens</a>
+      <a href="https://pumpreport.news/#whales">Whale Watch</a>
+      <a href="https://pumpreport.news/#culture">Culture</a>
+    </nav>
+    <a class="nav-cta" href="https://pumpreport.news/#newsletter">The Pump Report ↗</a>
+  </div>
+</div>
+
+<main class="article-shell">
+  <span class="kicker">Guides · Trading</span>
+  <h1>The Ultimate Guide to Perpetual Futures Markets (2026)</h1>
+  <p class="article-dek">Everything you need to know about crypto perps in one place: how funding rates actually work, what leverage and liquidation really mean for your position, and how CEX and DEX venues stack up.</p>
+  <div class="article-meta">Published Sept 14, 2026 · 12 min read · Trading Desk</div>
+
+  <div class="article-body">
+    <p>Perpetual futures — "perps" — are the single highest-volume product in crypto trading. They're also one of the most misunderstood, because the mechanics that make them work (funding rates, mark price, liquidation engines) aren't the same as anything in traditional stock or options trading. This guide covers the whole thing: what a perp actually is, how the money moves, and how to think about choosing a venue in 2026.</p>
+
+    <h2>What a perpetual futures contract actually is</h2>
+    <p>A perpetual futures contract lets you take a leveraged long or short position on an asset's price with no expiration date — unlike a traditional futures contract, which settles on a fixed date. Because there's no settlement date to force the contract price back in line with the spot price, perps use a different mechanism entirely: the funding rate.</p>
+
+    <h2>The funding rate, explained properly</h2>
+    <p>Every perp contract has a funding rate — a periodic payment exchanged directly between traders holding long positions and traders holding short positions, not paid to the exchange. When the perp's price trades above the underlying spot price (more demand for longs), longs pay shorts. When it trades below spot (more demand for shorts), shorts pay longs. This constant back-and-forth pressure is what keeps the contract price tethered to spot over time.</p>
+    <p>Funding intervals vary by platform — commonly every 8 hours, though some platforms (Robinhood's EU perpetual futures product, for example) settle funding alongside P&L every 15 minutes. If you hold a position through a funding interval, that payment happens automatically — it's not optional, and it can meaningfully erode returns on a position held for a long time during a period of high funding.</p>
+
+    <h2>Leverage and liquidation: the part that actually matters</h2>
+    <p>Leverage lets you open a position larger than your account balance — 10x leverage means a $1,000 deposit controls a $10,000 position. The upside is proportionally larger gains on a correct call. The downside, which is the part that gets underweighted in most explainers, is that losses are proportionally larger too, and a leveraged position can be liquidated — forcibly closed by the exchange or protocol — once losses consume the margin backing it.</p>
+    <p>The higher the leverage, the smaller the adverse price move required to trigger liquidation. A 100x position can be liquidated by roughly a 1% move against it, before fees. Liquidation typically comes with an additional fee on top of the loss itself — Robinhood's EU perpetuals product, for instance, charges a 0.05% liquidation fee on the notional value liquidated. This is the single most important number to understand before opening any leveraged position: leverage doesn't just amplify your thesis, it collapses your margin for error.</p>
+
+    <h2>CEX perps vs. DEX perps</h2>
+    <p>Centralized exchange (CEX) perps — offered by Binance, Bybit, OKX, Kraken, and Coinbase Advanced — are custodial: you deposit funds to the exchange's control, and it operates the matching engine and liquidation logic. Decentralized exchange (DEX) perps run the same core mechanics through on-chain smart contracts, meaning you keep custody of funds in your own wallet and interact with the protocol directly.</p>
+
+    <h3>The major CEX venues</h3>
+    <table class="radar-table" style="margin-bottom:24px;">
+      <thead><tr><th>Platform</th><th>Markets</th><th>Max leverage</th><th>Fees (maker/taker)</th><th>US access</th></tr></thead>
+      <tbody>
+        <tr><td>Kraken</td><td class="mono">300+</td><td class="mono">Up to 100x*</td><td class="mono">0.020% / 0.050%</td><td>Yes (Kraken Derivatives US, NFA-regulated)</td></tr>
+        <tr><td>Binance</td><td class="mono">300+</td><td class="mono">Up to 125x (BTC)</td><td class="mono">0.02% / 0.04%</td><td>No</td></tr>
+        <tr><td>Bybit</td><td class="mono">400+</td><td class="mono">Up to 100x (BTC)</td><td class="mono">0.02% / 0.055%</td><td>No</td></tr>
+        <tr><td>OKX</td><td class="mono">300+</td><td class="mono">Up to 100x (BTC)</td><td class="mono">0.02% / 0.05%</td><td>No</td></tr>
+        <tr><td>Coinbase Advanced</td><td class="mono">BTC, ETH</td><td class="mono">10x / 20x (metals)</td><td class="mono">0.02% / 0.02%</td><td>Yes (CFTC-regulated)</td></tr>
+        <tr><td>Robinhood (perpetual futures)</td><td class="mono">Crypto + select ETFs/commodities</td><td class="mono">Up to 10x</td><td class="mono">Liquidation fee 0.05%</td><td>EU only (Robinhood Europe, UAB), not yet US</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:12.5px;color:var(--muted);margin-top:-14px;">*Leverage varies by asset and account verification tier. See our <a href="https://pumpreport.news/best-crypto-perp-trading-platforms-2026.html">full CEX perp platform comparison</a> for more detail.</p>
+
+    <h3>The major DEX venues</h3>
+    <table class="radar-table" style="margin-bottom:24px;">
+      <thead><tr><th>Platform</th><th>Chain</th><th>Positioning</th></tr></thead>
+      <tbody>
+        <tr><td>Hyperliquid</td><td class="mono">Own L1</td><td>The broadest all-round perp DEX by usable depth and trader attention</td></tr>
+        <tr><td>dYdX</td><td class="mono">Cosmos appchain</td><td>The longest-established name in perp DEXs; a baseline for comparison</td></tr>
+        <tr><td>GMX</td><td class="mono">Arbitrum / Avalanche</td><td>A simpler, more DeFi-native leverage workflow</td></tr>
+        <tr><td>Jupiter Perps</td><td class="mono">Solana</td><td>Popular with Solana-native traders who already handle spot flow in the same ecosystem</td></tr>
+        <tr><td>Drift Protocol</td><td class="mono">Solana</td><td>A more active-trader-focused, chain-native derivatives venue</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Why Robinhood matters here in 2026</h2>
+    <p>Robinhood's push into perpetual futures — currently live through Robinhood Europe, UAB under MiFID II/MiCA rules, with up to 10x leverage on most crypto contracts — is worth watching because it signals a regulated retail brokerage treating leveraged crypto derivatives as a mainstream product, not a niche one. Robinhood has also launched its own Ethereum-compatible Layer 2, Robinhood Chain, and third-party protocols like Perpetra have already built dedicated perpetual futures DEXs on top of it. Whether this expands to US users remains to be seen, and availability is subject to change — always confirm current eligibility directly with the platform.</p>
+
+    <h2>How to actually choose a venue</h2>
+    <p>Work through these in order, not by which one has the flashiest leverage number:</p>
+    <ol>
+      <li><strong>Is it legal for you to use?</strong> This eliminates most of the list immediately for many traders and is worth confirming before anything else.</li>
+      <li><strong>Custodial or self-custody?</strong> CEX perps are simpler but require trusting the exchange with your funds. DEX perps mean you hold your own keys, with the added responsibility that implies.</li>
+      <li><strong>How deep is the liquidity on the pairs you actually trade?</strong> Deep liquidity on BTC doesn't help if you're trading a smaller-cap altcoin perp with thin depth on that specific venue.</li>
+      <li><strong>What's the platform's track record during volatility?</strong> Outages and forced deleveraging during high-volatility events matter more than baseline fee schedules.</li>
+    </ol>
+
+    <h2>A short glossary</h2>
+    <p><strong>Mark price:</strong> a smoothed reference price (distinct from the last traded price) used to calculate unrealized P&L and trigger liquidations, designed to resist manipulation via thin order books. <strong>Open interest:</strong> the total value of outstanding perp contracts on an asset, a proxy for how much leveraged exposure exists in the market. <strong>Funding rate:</strong> the periodic payment between longs and shorts described above. <strong>Liquidation price:</strong> the price at which your position's margin is fully consumed and the position is force-closed.</p>
+
+    <div class="disclosure-box">
+      <strong>Not financial advice.</strong> Leveraged trading carries a high risk of rapid, significant loss and is not suitable for all traders. Regulatory availability, fees, and leverage limits vary by platform and jurisdiction and can change — confirm current terms directly with the platform. This is general information, not legal or financial advice; consult a qualified financial advisor and legal counsel as needed.
+    </div>
+
+    <div class="go-deeper">
+      <span class="label">Go Deeper</span>
+      <ul>
+        <li><a href="https://pumpreport.news/best-crypto-perp-trading-platforms-2026.html">PumpReport: The Best Places to Trade Crypto Perpetuals in 2026, Ranked</a></li>
+        <li><a href="https://www.dextools.io/tutorials/top-5-perpetual-dexs-2026" target="_blank" rel="noopener">DEXTools: Top 5 Perpetual DEXs in 2026</a></li>
+        <li><a href="https://robinhood.com/eu/en/support/articles/about-perpetual-futures/" target="_blank" rel="noopener">Robinhood: About Perpetual Futures</a></li>
+      </ul>
+    </div>
+    <p class="source-line">Sources: DEXTools, Kraken, Robinhood, platform fee documentation. Figures as published at time of writing and subject to change.</p>
+
+    <div class="share-row">
+      <a href="https://twitter.com/intent/tweet?url=https://pumpreport.news/ultimate-guide-to-perp-markets.html&text=The%20ultimate%20guide%20to%20perpetual%20futures%20markets" target="_blank" rel="noopener">Share on X</a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://pumpreport.news/ultimate-guide-to-perp-markets.html" target="_blank" rel="noopener">Share on LinkedIn</a>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>© 2026 PumpReport.news — Momentum. Launches. Market culture.</div>
+    <div><a href="https://pumpreport.news/">Home</a> · <a href="mailto:tips@pumpreport.news">Tips</a> · <a href="https://pumpreport.news/#newsletter">Newsletter</a></div>
+  </div>
+  <div class="wrap footer-disclaimer">Not financial advice. Prices for informational use only and may be delayed. PumpReport is an independent media property and is not affiliated with any platform covered in its reporting.</div>
+</footer>
+
+<script src="https://pumpreport.news/ticker.js"></script>
+</body>
+</html>
