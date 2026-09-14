@@ -1,0 +1,24 @@
+# FrontierTech.news
+
+> Emerging technology journalism for builders and early adopters. FrontierTech.news covers AI, blockchain, energy, biotech, and space — explaining what's actually changing and why it matters, without hype or overclaiming.
+
+FrontierTech.news is part of an independent media network. Coverage is reported and edited independently; where a business relationship exists with a company mentioned in an article, it is disclosed in that article, and forward-looking claims about unreleased capabilities are stated as forward-looking, never as fact.
+
+## Articles
+
+- [The AI Tools Actually Worth Paying For in 2026](https://frontiertech.news/ai-tools-worth-paying-for-2026.html): A practical assessment of which AI subscriptions deliver real value in 2026 — general assistants, coding agents, research and writing tools, image/video generation — and why enterprise "agentic AI" adoption warrants more skepticism than most vendors admit.
+- [Inside SpaceX's $100 Billion Bet on Coastal Louisiana](https://frontiertech.news/spacex-100-billion-louisiana-spaceport.html): SpaceX's planned $100 billion, 10-launchpad Starbase Louisiana in Vermilion Parish — investment figures, job projections, timeline, financial terms, and the coastal environmental tradeoffs involved.
+- [Nuclear Is Back — and Silicon Valley Is Paying For It](https://frontiertech.news/nuclear-power-silicon-valley-ai-boom.html): Why Microsoft, Meta, Google, Amazon, and OpenAI are signing nuclear power deals to feed AI data center demand, including the Three Mile Island restart and small modular reactor investments.
+- [CRISPR's Quiet Inflection Point](https://frontiertech.news/crispr-clinical-milestones-2026.html): A survey of where CRISPR gene editing stands in 2026, from Casgevy's real-world rollout to Intellia, Beam, Prime Medicine, Verve, and a new FDA framework for personalized ultra-rare disease treatment.
+- [What Blockchain Actually Solves (And What It Doesn't)](https://frontiertech.news/what-blockchain-actually-solves.html): An honest assessment of where enterprise blockchain works in 2026 — trade finance, supply chain, asset tokenization — and the five conditions under which blockchain projects still fail.
+
+## About
+
+- [About FrontierTech.news](https://frontiertech.news/about.html)
+- [Editorial Policy](https://frontiertech.news/editorial-policy.html)
+
+## Optional
+
+- [Privacy Policy](https://frontiertech.news/privacy-policy.html)
+- [Terms of Use](https://frontiertech.news/terms.html)
+- [Advertise](https://frontiertech.news/advertise.html)
