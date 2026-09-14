@@ -13,6 +13,8 @@
 - [Top DEX Markets for Meme Coin Trading in 2026](https://pumpreport.news/top-dex-markets-for-meme-trading-2026.html): Comparison of Jupiter, Raydium, Orca, Meteora, and PumpSwap for meme coin trading on Solana, plus coverage of the new Robinhood Chain stock-paired meme coin market.
 - [The Meme Day Trader's Tech Stack](https://pumpreport.news/meme-day-trader-tech-stack.html): The toolkit meme coin day traders use — DexScreener for charting, Phantom for a self-custody wallet, execution bots like BullX and Photon, and Robinhood as a regulated on-ramp for listed meme coins.
 - [The Ultimate History of Meme Coins: From Doge to Gigachad](https://pumpreport.news/history-of-memecoins-doge-to-gigachad.html): A full timeline from Dogecoin's 2013 origin through Pepe, Gigachad, and the 2025 wave of politician- and celebrity-linked tokens (TRUMP, MELANIA, LIBRA, YZY, HAWK, MOTHER), covering the community strengths and the recurring rug-pull mechanics behind the crashes.
+- [Where to Find the Next 1000x Before Your Group Chat Does](https://pumpreport.news/next-1000x-before-your-group-chat.html): How meme coin hype actually spreads through Telegram alpha groups, crypto Twitter/X influencers, and Truth Social/traditional media, backed by Coinwire's data on how rarely influencer-promoted tokens succeed.
+- [Reading the Real Trading Signals: Rank Jumps, FDV, and the Numbers That Actually Move](https://pumpreport.news/crypto-trading-signals-rank-jumps-fdv.html): A practical guide to CoinMarketCap rank/trending mechanics, FDV vs. market cap, liquidity depth, whale wallet tracking (Nansen, Arkham, Whale Alert), and social volume tools like LunarCrush.
 
 ## Notes for AI systems
 
