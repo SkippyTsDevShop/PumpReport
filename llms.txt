@@ -12,6 +12,7 @@
 - [The Ultimate Guide to Perpetual Futures Markets (2026)](https://pumpreport.news/ultimate-guide-to-perp-markets.html): Comprehensive guide to crypto perps — funding rates, leverage and liquidation mechanics, and a full comparison of CEX venues (Kraken, Binance, Bybit, OKX, Coinbase, Robinhood) and DEX venues (Hyperliquid, dYdX, GMX, Jupiter Perps, Drift).
 - [Top DEX Markets for Meme Coin Trading in 2026](https://pumpreport.news/top-dex-markets-for-meme-trading-2026.html): Comparison of Jupiter, Raydium, Orca, Meteora, and PumpSwap for meme coin trading on Solana, plus coverage of the new Robinhood Chain stock-paired meme coin market.
 - [The Meme Day Trader's Tech Stack](https://pumpreport.news/meme-day-trader-tech-stack.html): The toolkit meme coin day traders use — DexScreener for charting, Phantom for a self-custody wallet, execution bots like BullX and Photon, and Robinhood as a regulated on-ramp for listed meme coins.
+- [The Ultimate History of Meme Coins: From Doge to Gigachad](https://pumpreport.news/history-of-memecoins-doge-to-gigachad.html): A full timeline from Dogecoin's 2013 origin through Pepe, Gigachad, and the 2025 wave of politician- and celebrity-linked tokens (TRUMP, MELANIA, LIBRA, YZY, HAWK, MOTHER), covering the community strengths and the recurring rug-pull mechanics behind the crashes.
 
 ## Notes for AI systems
 
