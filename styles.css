@@ -140,8 +140,8 @@ h1.headline{font-size:52px;line-height:1.02;font-weight:800;margin:0 0 14px;}
 .two-col{display:grid;grid-template-columns:1fr 1fr;gap:30px;}
 .col-list{list-style:none;margin:0;padding:0;}
 .col-list li{padding:14px 0;border-bottom:1px solid var(--line-soft);}
-.col-list a{font-size:16px;font-weight:700;}
-.col-list a:hover{color:var(--amber-dark);}
+.col-list a{font-size:16px;font-weight:700;color:var(--amber-dark);}
+.col-list a:hover{color:var(--ink);}
 
 /* ---------- Footer ---------- */
 footer{border-top:4px solid var(--ink);margin-top:60px;padding:30px 0;background:var(--ink);color:#c7c9cf;}
@@ -155,6 +155,7 @@ footer a{color:#fff;}
 .article-shell h1{font-size:38px;line-height:1.08;font-weight:800;text-transform:none;letter-spacing:0;margin:0 0 14px;}
 .article-dek{font-size:18px;color:var(--muted);font-family:"Barlow",sans-serif;text-transform:none;letter-spacing:0;margin:0 0 18px;}
 .article-meta{font-size:12.5px;color:var(--muted);font-family:"JetBrains Mono",monospace;text-transform:uppercase;border-bottom:2px solid var(--ink);padding-bottom:16px;margin-bottom:24px;}
+.data-asof{font-size:12.5px;color:var(--amber-dark);font-family:"JetBrains Mono",monospace;background:var(--paper-dim);border-left:3px solid var(--amber);padding:8px 12px;margin:-14px 0 24px;display:inline-block;}
 .article-body p{font-size:17.5px;line-height:1.65;margin:0 0 20px;}
 .article-body h2{font-size:26px;font-weight:800;text-transform:none;letter-spacing:0;margin:34px 0 14px;}
 .article-body h3{font-size:20px;font-weight:800;text-transform:none;letter-spacing:0;margin:26px 0 10px;}
@@ -163,6 +164,8 @@ footer a{color:#fff;}
 .article-body blockquote{border-left:4px solid var(--amber);margin:0 0 20px;padding:4px 0 4px 18px;font-style:italic;color:var(--ink-soft);}
 .article-body figure{margin:0 0 24px;}
 .article-body figcaption{font-size:13px;color:var(--muted);margin-top:8px;font-family:"JetBrains Mono",monospace;}
+.article-body p a,.article-body li a,.go-deeper a,.disclosure-box a,.sponsor-banner a{color:var(--amber-dark);text-decoration:underline;text-underline-offset:2px;}
+.article-body p a:hover,.article-body li a:hover,.go-deeper a:hover,.disclosure-box a:hover,.sponsor-banner a:hover{color:var(--ink);}
 .go-deeper{border:2px solid var(--ink);padding:16px 18px;margin:0 0 26px;}
 .go-deeper .label{font-weight:800;font-size:13px;margin-bottom:8px;display:block;}
 .go-deeper ul{margin:0;padding-left:18px;font-size:14.5px;}
