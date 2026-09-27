@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PumpReport</title>
+    <link>https://pumpreport.news/</link>
+    <description>Momentum, token launches, whale activity, and market culture — covered fast, sourced, and without the hype.</description>
+    <language>en-us</language>
+    <atom:link href="https://pumpreport.news/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 27 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The History of the ICO</title>
+      <link>https://pumpreport.news/history-of-the-ico</link>
+      <guid isPermaLink="true">https://pumpreport.news/history-of-the-ico</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+      <description>From a 2013 Bitcoin forum post to an $18M ether sale, a $5.6B boom, an SEC crackdown, and today's bonding-curve launchpads — the full history of the ICO.</description>
+    </item>
+    <item>
+      <title>Kalshi Is Selling the Midterms as a Market</title>
+      <link>https://pumpreport.news/kalshi-midterm-elections-2026-legal-battle</link>
+      <guid isPermaLink="true">https://pumpreport.news/kalshi-midterm-elections-2026-legal-battle</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Kalshi and Polymarket now price the 2026 midterms in real time, with Democrats favored in both chambers — while a CFTC-vs-states legal war escalates.</description>
+    </item>
+    <item>
+      <title>BTC Holds $86K: Squeeze First, Longs Second</title>
+      <link>https://pumpreport.news/btc-86k-87k-short-squeeze-longs-90k-battle</link>
+      <guid isPermaLink="true">https://pumpreport.news/btc-86k-87k-short-squeeze-longs-90k-battle</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Bitcoin reclaimed $86K on falling oil and ETF inflows — but futures data show forced short covering did the heavy lifting, not fresh conviction longs.</description>
+    </item>
+    <item>
+      <title>Crypto Token Launch Guide 2026</title>
+      <link>https://pumpreport.news/ultimate-guide-crypto-token-launches-2026</link>
+      <guid isPermaLink="true">https://pumpreport.news/ultimate-guide-crypto-token-launches-2026</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <description>How token launches actually work in 2026: ICO, IEO, IDO, fair launch, bonding curve, and stealth mint compared, plus a first-hour checklist for spotting rugs.</description>
+    </item>
+    <item>
+      <title>ZetaChain Holders Vote to Kill Their Own L1</title>
+      <link>https://pumpreport.news/zetachain-vote-kill-l1-migrate-zeta-solana</link>
+      <guid isPermaLink="true">https://pumpreport.news/zetachain-vote-kill-l1-migrate-zeta-solana</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <description>ZetaChain holders passed a 99% vote to retire their Cosmos L1 and migrate ZETA 1:1 to Solana — the vote premium, the squeeze, and what's still unresolved.</description>
+    </item>
+    <item>
+      <title>Why Arbitrum Jumped 26% While ETH Moved 7%</title>
+      <link>https://pumpreport.news/arbitrum-starknet-rally-ethereum-market-cap-mechanics</link>
+      <guid isPermaLink="true">https://pumpreport.news/arbitrum-starknet-rally-ethereum-market-cap-mechanics</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>ARB surged 26% and STRK 18% while ETH gained just 7% in the same rally. The reason is market cap math, not hype.</description>
+    </item>
+    <item>
+      <title>The $648M Short Squeeze That Hit Bitcoin</title>
+      <link>https://pumpreport.news/bitcoin-85k-short-squeeze-648-million</link>
+      <guid isPermaLink="true">https://pumpreport.news/bitcoin-85k-short-squeeze-648-million</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Bitcoin hit $84,984 as $648M in shorts got liquidated — but open interest climbed anyway, as leveraged longs replaced the shorts.</description>
+    </item>
+    <item>
+      <title>Bitcoin's Best Quarter Since 2024</title>
+      <link>https://pumpreport.news/bitcoin-q3-2026-bull-run-signals</link>
+      <guid isPermaLink="true">https://pumpreport.news/bitcoin-q3-2026-bull-run-signals</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>BTC gained 44% in Q3 2026 to $84,853 — still 48% below its record. Altcoins outran it. What's driving the rally, and why it's risky.</description>
+    </item>
+    <item>
+      <title>Crypto Buybacks Hit a Record $638 Million</title>
+      <link>https://pumpreport.news/crypto-token-buyback-record-638-million</link>
+      <guid isPermaLink="true">https://pumpreport.news/crypto-token-buyback-record-638-million</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Hyperliquid and pump.fun account for 90% of a record $638M in 2026 token buybacks — trading fees turned into stock-style repurchases.</description>
+    </item>
+    <item>
+      <title>No Polymarket Token Yet, Despite the Boom</title>
+      <link>https://pumpreport.news/polymarket-college-football-volume-no-token</link>
+      <guid isPermaLink="true">https://pumpreport.news/polymarket-college-football-volume-no-token</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>College football trading hit $790M this season; Polymarket volume is up 4,399% in a week. Still no token, despite a teased ticker.</description>
+    </item>
+    <item>
+      <title>Did Reflection Tokens STONK and ZCAT Just Peak?</title>
+      <link>https://pumpreport.news/reflection-tokens-stonk-zcat-boom-bust</link>
+      <guid isPermaLink="true">https://pumpreport.news/reflection-tokens-stonk-zcat-boom-bust</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>STONK crashed 26% then recovered. ZCAT has paid holders $2.8M in real Zcash. The case for a real asset class, and for a topped-out fad.</description>
+    </item>
+    <item>
+      <title>The Solana Launchpad Wars: StonkFun vs Pump.fun</title>
+      <link>https://pumpreport.news/stonkfun-pumpfun-launchpad-wars-solana</link>
+      <guid isPermaLink="true">https://pumpreport.news/stonkfun-pumpfun-launchpad-wars-solana</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>For one day, a stock-paired token launchpad out-earned pump.fun — and helped drive Solana's record 263,000 launches in a day.</description>
+    </item>
+    <item>
+      <title>The $21K-to-$3.78M Solana Launchpad Trade</title>
+      <link>https://pumpreport.news/whale-watch-zcat-stonk-3-78-million-trade</link>
+      <guid isPermaLink="true">https://pumpreport.news/whale-watch-zcat-stonk-3-78-million-trade</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A wallet turned $21,000 into $3.78M on two Solana launchpad tokens — 1,626x on one position, 82x on the other, bought at launch.</description>
+    </item>
+    <item>
+      <title>Circle Built Arc for BlackRock. Memes Took Over</title>
+      <link>https://pumpreport.news/arc-chain-memecoin-takeover-blackrock</link>
+      <guid isPermaLink="true">https://pumpreport.news/arc-chain-memecoin-takeover-blackrock</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Circle's institutional Arc chain launched with BlackRock, Visa, and Mastercard as validators. Meme launchpads drove most of day-one volume.</description>
+    </item>
+    <item>
+      <title>Harmony Shuts Down. ONE Surged 165% Anyway.</title>
+      <link>https://pumpreport.news/harmony-one-shutdown-token-surge</link>
+      <guid isPermaLink="true">https://pumpreport.news/harmony-one-shutdown-token-surge</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Harmony is sunsetting its chain and migrating ONE to Ethereum, weeks after an exploit minted 26% of its supply. ONE surged 165% anyway.</description>
+    </item>
+    <item>
+      <title>LAPTOP's Burn Conditions Are Wired to 2028</title>
+      <link>https://pumpreport.news/laptop-token-burn-conditions-explained</link>
+      <guid isPermaLink="true">https://pumpreport.news/laptop-token-burn-conditions-explained</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <description>LAPTOP ties a 30% supply burn to 30 political and market conditions, including a 2028 election. Fake versions rallied 1,550%+ pre-launch.</description>
+    </item>
+    <item>
+      <title>AI Trading Bots: What They Actually Do</title>
+      <link>https://pumpreport.news/ai-trading-bots-2026-feature</link>
+      <guid isPermaLink="true">https://pumpreport.news/ai-trading-bots-2026-feature</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>3Commas, Pionex, Cryptohopper, and BulkQuant promise automated crypto trading. Here's what these bots actually execute versus the marketing.</description>
+    </item>
+    <item>
+      <title>The Anatomy of a Pump: Order Book Red Flags</title>
+      <link>https://pumpreport.news/anatomy-of-a-pump</link>
+      <guid isPermaLink="true">https://pumpreport.news/anatomy-of-a-pump</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Thin liquidity, spoofed walls, and coordinated buying leave the same fingerprints before every pump. Here's how to read the order book.</description>
+    </item>
+    <item>
+      <title>Best Crypto Perp Trading Platforms, Ranked</title>
+      <link>https://pumpreport.news/best-crypto-perp-trading-platforms-2026</link>
+      <guid isPermaLink="true">https://pumpreport.news/best-crypto-perp-trading-platforms-2026</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Kraken, Binance, Bybit, OKX, and Coinbase compared on fees, leverage, and where you're actually allowed to trade perps in 2026.</description>
+    </item>
+    <item>
+      <title>Reading the Real Crypto Trading Signals</title>
+      <link>https://pumpreport.news/crypto-trading-signals-rank-jumps-fdv</link>
+      <guid isPermaLink="true">https://pumpreport.news/crypto-trading-signals-rank-jumps-fdv</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>CMC rank jumps, FDV ratios, liquidity depth, whale flows, and social volume — what each trading signal does and doesn't tell you.</description>
+    </item>
+    <item>
+      <title>The Ultimate History of Meme Coins</title>
+      <link>https://pumpreport.news/history-of-memecoins-doge-to-gigachad</link>
+      <guid isPermaLink="true">https://pumpreport.news/history-of-memecoins-doge-to-gigachad</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>From Dogecoin's 2013 origin to a $150B peak that swallowed sitting presidents and rappers — the full history, and what keeps going wrong.</description>
+    </item>
+    <item>
+      <title>How to Spot the Next PEPE</title>
+      <link>https://pumpreport.news/how-to-spot-the-next-pepe</link>
+      <guid isPermaLink="true">https://pumpreport.news/how-to-spot-the-next-pepe</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>PEPE turned a joke into a $1.45B+ asset. Most copycats go to zero. Here's the framework traders use to separate signal from noise.</description>
+    </item>
+    <item>
+      <title>Hunter Biden's $LAPTOP Token Crashed 98%</title>
+      <link>https://pumpreport.news/laptop-token-crash-hunter-biden</link>
+      <guid isPermaLink="true">https://pumpreport.news/laptop-token-crash-hunter-biden</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>LAPTOP hit a $1.6B market cap within an hour on Base, then collapsed 98% from its peak. The full timeline and what it reveals.</description>
+    </item>
+    <item>
+      <title>The Meme Day Trader's Tech Stack</title>
+      <link>https://pumpreport.news/meme-day-trader-tech-stack</link>
+      <guid isPermaLink="true">https://pumpreport.news/meme-day-trader-tech-stack</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>The actual toolkit meme coin day traders use: DexScreener for charts, Phantom for a wallet, sniper bots, and Robinhood as the on-ramp.</description>
+    </item>
+    <item>
+      <title>Where the Next 1000x Call Really Comes From</title>
+      <link>https://pumpreport.news/next-1000x-before-your-group-chat</link>
+      <guid isPermaLink="true">https://pumpreport.news/next-1000x-before-your-group-chat</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Telegram groups, crypto Twitter, and Truth Social all claim to move first. Here's what the data says really happens in each channel.</description>
+    </item>
+    <item>
+      <title>Top DEX Markets for Meme Coin Trading in 2026</title>
+      <link>https://pumpreport.news/top-dex-markets-for-meme-trading-2026</link>
+      <guid isPermaLink="true">https://pumpreport.news/top-dex-markets-for-meme-trading-2026</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Jupiter, Raydium, Orca, Meteora, PumpSwap, and the new Robinhood Chain meme coin market compared for fresh-pool access, fees, and liquidity depth in 2026.</description>
+    </item>
+    <item>
+      <title>The Ultimate Guide to Perpetual Futures Markets</title>
+      <link>https://pumpreport.news/ultimate-guide-to-perp-markets</link>
+      <guid isPermaLink="true">https://pumpreport.news/ultimate-guide-to-perp-markets</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Funding rates, leverage and liquidation mechanics, and how to compare CEX and DEX perp venues — Hyperliquid, dYdX, GMX, Kraken, Binance, and more.</description>
+    </item>
+  </channel>
+</rss>

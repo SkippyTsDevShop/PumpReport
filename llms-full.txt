@@ -162,4 +162,11 @@ Coverage of Kalshi and Polymarket's push to become the reference odds source for
 
 ---
 
+## The Full History of the ICO: From Mastercoin to Bonding Curves
+URL: https://pumpreport.news/history-of-the-ico.html
+Published: 2026-09-27
+
+A pillar history piece tracing the initial coin offering from its 2013 origin through today's launchpads. Covers J.R. Willett's Mastercoin sale (July-August 2013, ~5,000 BTC / ~$500,000 raised, later rebranded Omni Layer); Ethereum's July 22-September 2, 2014 crowdsale (~31,000 BTC / ~$18.3 million, per Wikipedia's crowdfunding archive and CoinDesk's retrospective), which funded the blockchain that made ERC-20 token sales possible; the 2016-2017 ICO boom (over $5.6 billion raised across 2017 per CoinGape and industry trackers, with China's September 2017 ban following ~$400 million raised domestically), including landmark individual sales — Tezos ($232 million, July 2017), Filecoin ($257 million, September 2017), and EOS's year-long crowdsale (~$4 billion, June 2017-June 2018, later scrutinized for wash trading); the SEC's regulatory turn, including the July 25, 2017 DAO Report applying the Howey test to token sales and the December 11, 2017 Munchee cease-and-desist order (a $15 million raise halted and refunded before any tokens were delivered); the 2018 peak (~$13 billion+ raised in the first five months alone, an EY study finding over 10% of a $3.7 billion sample lost to hacks/scams) followed by the 2019 crash (Q1 2019 ICO fundraising fell to roughly $40 million, a decline of nearly 100% year over year); and the shift to exchange-hosted IEOs (Binance Launchpad's 2019 BitTorrent sale) and DEX-based IDOs (Raven Protocol, 2019), which in turn gave way to today's algorithmic bonding-curve launchpads like pump.fun. Cross-links to and from the Ultimate Guide to Crypto Token Launches in 2026, plus the History of Meme Coins and the Solana Launchpad Wars pieces. Sources: U.S. Securities and Exchange Commission, Wikipedia, CoinDesk, CoinGape, CCN, CryptoSlate.
+
+---
 Last updated: 2026-09-27

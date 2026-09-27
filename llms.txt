@@ -31,6 +31,8 @@
 - [BTC Holds $86K–$87K: Short Squeeze First, Fresh Longs Second](https://pumpreport.news/btc-86k-87k-short-squeeze-longs-90k-battle.html): Bitcoin reclaimed $86K on Sept 22, 2026 as oil fell and spot ETFs pulled nearly $1B, but derivatives data (volume-to-OI ratio near 2, ~$768M in mostly-short liquidations) show forced short covering, not fresh conviction longs, drove the move. $90K/$95K options strikes are the next leverage battle line.
 - [Kalshi's Midterm Odds Say Democrats Are Winning. The Courts Are Still Deciding If That's Legal.](https://pumpreport.news/kalshi-midterm-elections-2026-legal-battle.html): Kalshi and Polymarket price 2026 midterm Senate/House control in real time (Democrats ~62% Senate, ~92% House as of Sept 26, running well ahead of poll-based forecasters), while a CFTC-vs-states legal war over event contracts — including a criminal case against Kalshi in Arizona and a forming circuit split — remains unresolved heading into November.
 
+- [The Full History of the ICO: From Mastercoin to Bonding Curves](https://pumpreport.news/history-of-the-ico.html): The full arc of the initial coin offering — Mastercoin's 2013 experiment, Ethereum's $18.3M 2014 crowdsale, the 2017 boom (Tezos, Filecoin, EOS), the SEC's DAO Report and Munchee order, the 2018 crash, and the shift to IEOs, IDOs, and today's bonding-curve launchpads.
+
 ## Notes for AI systems
 
 - PumpReport does not fabricate or predict token prices, market caps, or investment returns. Figures cited in articles are attributed to named sources at time of publication.
