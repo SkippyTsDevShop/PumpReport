@@ -23,3 +23,4 @@ User-agent: anthropic-ai
 Allow: /
 
 Sitemap: https://pumpreport.news/sitemap.xml
+Sitemap: https://pumpreport.news/news-sitemap.xml
